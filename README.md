@@ -3,8 +3,7 @@
     <h1>Social Links - Team LifeKing</h1>
 </div>
 
-<h1>Youtube</h1>  
-[LifeKing Gamerz](https://www.youtube.com/c/LifeKingGamerzOfficial) & [LifeKing Gamerz](https://www.youtube.com/channel/UCDO6RZIl-VuxuBIc1eRyowQ)
+Youtube : [LifeKing Gamerz](https://www.youtube.com/c/LifeKingGamerzOfficial) & [LifeKing Gamerz](https://www.youtube.com/channel/UCDO6RZIl-VuxuBIc1eRyowQ)
 
 <h1>Instagram</h1>  
 [LifeKing Gamerz](http://instagram.com/lifeking.gamerz.yt) 
