@@ -3,14 +3,14 @@
     <h1>Social Links - Team LifeKing</h1>
 </div>
 
-<h1>Youtube : [LifeKing Gamerz](https://www.youtube.com/channel/UCP0GCmDXJheVImrk2FfRlqg) & [NG Playing](https://www.youtube.com/channel/UC5rDE43eL6EbE2hLdhDBXNg)
+<h1>Youtube</h1> : [LifeKing Gamerz](https://www.youtube.com/c/LifeKingGamerzOfficial) & [LifeKing Gamerz](https://www.youtube.com/channel/UCDO6RZIl-VuxuBIc1eRyowQ)
 
-Instagram : [LifeKing Gamerz](http://www.instagram.com/nintex.gamerz.yt) & [NG Playing](http://www.instagram.com/ng.playingyt)
+<h1>Instagram</h1> : [LifeKing Gamerz](http://instagram.com/lifeking.gamerz.yt) 
 
-Facebook : [LifeKing Gamerz](http://www.facebook.com/Nintex.Gamerz.yt) & [NG Playing](http://www.facebook.com/ng.playingyt)
+<h1>Facebook</h1> : [LifeKing Gamerz](http://facebook.com/lifeking.gamerz.yt) 
 
-Twitter : [LifeKing Gamerz](http://www.twitter.com/Nintex_Gamerz)
+<h1>Twitter</h1> : [LifeKing Gamerz](https://twitter.com/lifeking_gamerz)
 
-Twitch : [LifeKing Gamerz](https://www.twitch.tv/nintex_gamerz) 
+<h1>Twitch</h1> : [LifeKing Gamerz](https://www.twitch.tv/lifeking_gamerz_yt) 
 
-Omlet Arcade : [LifeKing Gamerz](https://omlet.gg/profile/nintex_gamerz_yt)</h1>
+<h1>Omlet Arcade</h1> : [LifeKing Gamerz](https://omlet.gg/profile/lifeking_gamerz_yt)
