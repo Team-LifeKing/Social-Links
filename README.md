@@ -5,17 +5,12 @@
 
 Youtube : [LifeKing Gamerz](https://www.youtube.com/c/LifeKingGamerzOfficial) & [LifeKing Gamerz](https://www.youtube.com/channel/UCDO6RZIl-VuxuBIc1eRyowQ)
 
-<h1>Instagram</h1>  
-[LifeKing Gamerz](http://instagram.com/lifeking.gamerz.yt) 
+Instagram ; [LifeKing Gamerz](http://instagram.com/lifeking.gamerz.yt) 
 
-<h1>Facebook</h1>  
-[LifeKing Gamerz](http://facebook.com/lifeking.gamerz.yt) 
+Facebook  ; [LifeKing Gamerz](http://facebook.com/lifeking.gamerz.yt) 
 
-<h1>Twitter</h1>  
-[LifeKing Gamerz](https://twitter.com/lifeking_gamerz)
+Twitter ; [LifeKing Gamerz](https://twitter.com/lifeking_gamerz)
 
-<h1>Twitch</h1>  
-[LifeKing Gamerz](https://www.twitch.tv/lifeking_gamerz_yt) 
+Twitch : [LifeKing Gamerz](https://www.twitch.tv/lifeking_gamerz_yt) 
 
-<h1>Omlet Arcade</h1>  
-[LifeKing Gamerz](https://omlet.gg/profile/lifeking_gamerz_yt)
+Omlet Arcade : [LifeKing Gamerz](https://omlet.gg/profile/lifeking_gamerz_yt)
