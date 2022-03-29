@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://i.imgur.com/MVOBkyw.jpeg" width="450px" height="180px" style="max-width:100%;">
+    <img src="https://i.imgur.com/k0jiW9u.jpeg" width="450px" height="180px" style="max-width:100%;">
     <h1>Social Links - Team LifeKing</h1>
 </div>
 
